@@ -8,7 +8,7 @@ public class Main {
      manager.attendTraining();
      manager.conductInterview();
      System.out.println();
-     System.out.println("--------------------------------");
+     System.out.println("-----------------------------------");
 
 //     Exercitiu 2:
       Training t1 = new Programmer("Stefan  ","025485555   ","Chisinau   ");
